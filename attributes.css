@@ -1,0 +1,9 @@
+#box{
+    background-color: rgb(179, 44, 44);
+    border: 10px solid #0d9a3c;
+    padding: 10px;
+    height: 100px;
+    width: 200px;
+    border-radius: 5px;
+    
+}
